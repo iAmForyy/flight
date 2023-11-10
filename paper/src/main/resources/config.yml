@@ -1,0 +1,4 @@
+messages:
+  no_permission: "&cYou don't have permission"
+  flight_enabled: "&aYour flight mode has been enabled"
+  flight_disabled: "&cYour flight mode has been disabled"
